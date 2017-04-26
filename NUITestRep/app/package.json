@@ -1,0 +1,38 @@
+{
+  "version": "1.0.0",
+  "name": "NUITestRep",
+  "private": true,
+  "main": "nui.app.js",
+  "devDependencies": {
+    "eslint": "^3.14.1",
+    "eslint-config-airbnb": "~14.0.0",
+    "eslint-plugin-import": "^2.2.0",
+    "eslint-plugin-jsx-a11y": "^3.0.2",
+    "eslint-plugin-react": "^6.9.0",
+    "gulp": "^3.9.1",
+    "gulp-angular-templatecache": "^1.7.0",
+    "gulp-autoprefixer": "^3.1.0",
+    "gulp-concat": "^2.6.0",
+    "gulp-csslint": "^0.2.0",
+    "gulp-cssmin": "^0.1.7",
+    "gulp-eslint": "^3.0.1",
+    "gulp-if": "^2.0.2",
+    "gulp-load-plugins": "^1.4.0",
+    "gulp-notify": "^2.2.0",
+    "gulp-rename": "^1.2.2",
+    "gulp-sass": "^2.2.0",
+    "gulp-sourcemaps": "^1.5.2",
+    "gulp-uglify": "^1.5.2",
+    "node-notifier": "^5.0.2",
+    "run-sequence": "^1.2.2",
+    "yargs": "^6.6.0"
+  },
+  "dependencies": {
+    "angular-block-ui": "github:mcnull/angular-block-ui",
+    "angular-spinner": "^1.0.1",
+    "angular-ui-indeterminate": "^1.0.0",
+    "bootstrap": "^3.3.7",
+    "spin.js": "^2.3.2",
+    "toastr": "CodeSeven/toastr#2.1.3"
+  }
+}
